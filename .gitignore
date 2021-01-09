@@ -1,0 +1,9 @@
+node_modules
+
+_assets_
+
+*.sublime-project*
+
+.sublime-workspace
+
+.idea
